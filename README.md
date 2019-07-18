@@ -47,6 +47,7 @@ Click button "PANORAMA" and wait some seconds to show window to save file result
 
 To compute result images fast or low depent on resolution of input images.
 
+
 ### Input
 
 Names of input images have rename order from left to right and put all to one folder.
@@ -57,11 +58,13 @@ Names of input images have rename order from left to right and put all to one fo
 /3.jpg
 ```
 
-### Out put
+### Demo
 
-Result file
+Because file demo too big not upload on git so I upload file to my drive.
 
-church.jpg
+```
+https://drive.google.com/drive/folders/1bdx3Fx_bkdCok-y4jexEwmQexAbxFrnH?usp=sharing
+```
 
 ## Deployment
 
