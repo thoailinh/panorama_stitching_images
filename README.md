@@ -4,11 +4,14 @@ Matching and stitching images related to a complete image(panorama).
 
 ## Getting Started
 ### Prerequisites
-
-What things you need to install the software and how to install them
+When I work my project, i am using ubuntu 18.04.2.
+You need to install the libraries to run project.
 
 ```
-Give examples
+Python3.6 
+Opencv3.4.2 contrib
+Numpy
+PyQT5
 ```
 
 ### Installing
