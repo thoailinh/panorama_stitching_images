@@ -3,8 +3,11 @@
 Matching and stitching images related to a complete image(panorama).
 
 ## Getting Started
+
 ### Prerequisites
+
 When I work my project, i am using ubuntu 18.04.2.
+
 You need to install the libraries to run project.
 
 ```
@@ -30,26 +33,35 @@ pip install opencv-contrib-python
 ## Running
 
 Run file main.py
+
 ```
 python3 main.py
 ```
-Show application panorama have 4 buttons. click button "NOTE" to see message before using.
+Show application panorama have 3 buttons(NOTE, OPEN WITH FILES, PANORAMA).
 
-### Break down into end to end tests
+Click button "NOTE" to see message before using.
 
-Explain what these tests test and why
+Click button "OPEN WITH FILES" and choose all file input images.
+
+Click button "PANORAMA" and wait some seconds to show window to save file result.
+
+To compute result images fast or low depent on resolution of input images.
+
+### Input
+
+Names of input images have rename order from left to right and put all to one folder.
 
 ```
-Give an example
+/1.jpg
+/2.jpg
+/3.jpg
 ```
 
-### And coding style tests
+### Out put
 
-Explain what these tests test and why
+Result file
 
-```
-Give an example
-```
+church.jpg
 
 ## Deployment
 
