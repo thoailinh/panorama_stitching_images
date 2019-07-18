@@ -58,7 +58,7 @@ Names of input images have rename order from left to right and put all to one fo
 /3.jpg
 ```
 
-### Demo
+## Demo
 
 Because file demo too big not upload on git so I upload file to my drive.
 
@@ -70,9 +70,12 @@ And I have file demo panorama.exe smaller with out hide base.
 
 https://drive.google.com/file/d/1boY2k7-QteS_fNl243rvq2ubNqHwe9k9/view?usp=sharing
 
-## Deployment
+## Reference
 
-Add additional notes about how to deploy this on a live system
+https://github.com/search?q=panorama to learn from other developer.
 
-## Built With
+https://www.pyimagesearch.com/ to search keys ralated panorama from him.
+
+https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_feature2d/py_surf_intro/py_surf_intro.html to understand 
+
 
