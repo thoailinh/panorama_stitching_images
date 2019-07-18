@@ -62,9 +62,13 @@ Names of input images have rename order from left to right and put all to one fo
 
 Because file demo too big not upload on git so I upload file to my drive.
 
-```
+Folder demo, download and run file main.exe
+
 https://drive.google.com/drive/folders/1bdx3Fx_bkdCok-y4jexEwmQexAbxFrnH?usp=sharing
-```
+
+And I have file demo panorama.exe smaller with out hide base.
+
+https://drive.google.com/file/d/1boY2k7-QteS_fNl243rvq2ubNqHwe9k9/view?usp=sharing
 
 ## Deployment
 
