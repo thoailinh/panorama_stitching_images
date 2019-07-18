@@ -15,6 +15,7 @@ Python3.6
 Opencv3.4.2 contrib
 Numpy
 PyQT5
+imutils
 ```
 
 ### Installing
@@ -28,6 +29,7 @@ sudo apt-get install pyqt5-dev-tools
 sudo apt-get install qttools5-dev-tools
 pip install numpy
 pip install opencv-contrib-python
+pip install imutils
 ```
 
 ## Running
@@ -58,15 +60,15 @@ Names of input images have rename order from left to right and put all to one fo
 /3.jpg
 ```
 
-## Demo
+## Deployment
 
-Because file demo too big not upload on git so I upload file to my drive.
+Because file .exe too big not upload on git so I upload file to my drive.
 
-Folder demo, download and run file main.exe
+Folder .exe, download and run file main.exe
 
 https://drive.google.com/drive/folders/1bdx3Fx_bkdCok-y4jexEwmQexAbxFrnH?usp=sharing
 
-And I have file demo panorama.exe smaller with out hide base.
+And I have file panorama.exe smaller with out hide base.
 
 https://drive.google.com/file/d/1boY2k7-QteS_fNl243rvq2ubNqHwe9k9/view?usp=sharing
 
