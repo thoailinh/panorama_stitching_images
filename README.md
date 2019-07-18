@@ -16,25 +16,24 @@ PyQT5
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
+I use vs code and install pip before install libraries.
 
 ```
-Give the example
+pip install --user pyqt5  
+sudo apt-get install python3-pyqt5  
+sudo apt-get install pyqt5-dev-tools
+sudo apt-get install qttools5-dev-tools
+pip install numpy
+pip install opencv-contrib-python
 ```
 
-And repeat
+## Running
 
+Run file main.py
 ```
-until finished
+python3 main.py
 ```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
+Show application panorama have 4 buttons. click button "NOTE" to see message before using.
 
 ### Break down into end to end tests
 
@@ -57,8 +56,4 @@ Give an example
 Add additional notes about how to deploy this on a live system
 
 ## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
