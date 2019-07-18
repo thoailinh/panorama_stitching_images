@@ -1,6 +1,6 @@
 # panorama_stitching_images
 
-One Paragraph of project description goes here
+Matching and stitching images related to a complete image(panorama).
 
 ## Getting Started
 
